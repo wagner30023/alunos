@@ -6,11 +6,8 @@ twinter bootstrap e jquery e MYSQL
 
 funções 
 
-Interface com tela de Login;
 Banco de Dados com dados cadastrados;
 Opções aonde se possa fazer uma seleção no banco;
-Apenas com o Nome;
-Criar relatórios.
 
 para roda-lo 
 
@@ -22,13 +19,10 @@ vá em
 
 http://localhost/phpmyadmin
 
-importe os arquivos que estão na sub-pasta scripts
+importe os arquivos que estão na sub-pasta sql
 
-execute na ordem 
+execute o arquivo. 
 
-uneb.sql
-
-usuario.sql
 
 para acessar o sistema vá no navegador e acesse
 
