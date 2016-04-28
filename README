@@ -1,0 +1,54 @@
+Mini Manual SISUNEB
+
+Sistema simples desenvolvido com PHP
+
+twinter bootstrap e jquery e MYSQL
+
+funções 
+
+Interface com tela de Login;
+Banco de Dados com dados cadastrados;
+Opções aonde se possa fazer uma seleção no banco;
+Apenas com o Nome;
+Criar relatórios.
+
+para roda-lo 
+
+observação exemplo linux
+
+ex: jogue a pasta sisuneb no diretório /var/www
+
+vá em 
+
+http://localhost/phpmyadmin
+
+importe os arquivos que estão na sub-pasta scripts
+
+execute na ordem 
+
+uneb.sql
+
+usuario.sql
+
+para acessar o sistema vá no navegador e acesse
+
+localhost/sisuneb
+
+ou use o servidor embutido do PHP
+
+observação este exemplo é no linux
+
+
+abra o terminal CRTL + ALT + T
+
+digite o comanda para acessar o diretório onde se encontra a pasta do sistema.
+ 
+ex: cd /var/www/
+
+php -S localhost:8080 -t sisuneb/
+
+
+
+pode usar qualquer porta ex:8000 , 8020
+
+
